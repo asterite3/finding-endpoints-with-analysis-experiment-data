@@ -1,0 +1,33 @@
+dns_suffix: teststand
+stands_addr: "100.72.55.11"
+stands:
+  dvwa:
+    port: 7680
+    cookies:
+      values:
+        PHPSESSID: "bc0c86cd19126ee40332b795e9fdaf0b"
+        security: medium
+    strip_urls:
+      - "/logout.php"
+      - "/security.php?phpids=on"
+      - "/security.php?phpids=off"
+      - "/security.php?test="
+  web-goat:
+    port: 8688
+    cookies:
+      login:
+        url: "/WebGoat/login"
+        form:
+          username: tester
+          password: tester
+    strip_urls:
+      - "/WebGoat/logout"
+    path: "/WebGoat/"
+  juice-shop:
+    port: 3200
+  mybb:
+    port: 8588
+  wivet:
+    port: 8788
+    path: '/menu.php'
+
