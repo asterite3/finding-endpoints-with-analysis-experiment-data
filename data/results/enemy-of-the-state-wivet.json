@@ -1,0 +1,74 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/menu.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/1.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/10.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/11.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/11_1f2e4.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/12.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/12_1a2cf.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/12_2a2cf.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/12_3a2cf.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/13.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/14.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/15.php",
+        "headers": [],
+        "queryString": []
+    }
+]

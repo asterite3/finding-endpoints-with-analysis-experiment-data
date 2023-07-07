@@ -1,0 +1,652 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/menu.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/emnu.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/19.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/offscanpages/about.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/21.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/1.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/18.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/11.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/15.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/logout.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/8.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/4.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/offscanpages/current.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/9.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/13.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/6.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/3.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/10.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/offscanpages/statistics.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/7.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/14.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/12.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/20.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/5.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/16.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/2.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/17.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/0UAqFzWs/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/KLVw4",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/NlUP19.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/offscanpages/baout.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/5_1e4d2.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/3_16e1a.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/13_10ad3.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/8_1e4d2.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/12_2a2cf.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/12_3a2cf.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/12_1a2cf.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/offscanpages/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/wivet1.swf",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/16_2f41a.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/16_1b14f.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/pages/iwvet1.swf",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/20_1e833.php?param1=1&param2=2",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "param1",
+                "value": "1"
+            },
+            {
+                "name": "param2",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/body.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/header.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/9_2ff21.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/9_3a2b7.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/9_4b82d.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/9_26dd2e.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/4_1c3f8.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/9_1a1b2.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/10_17d77.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:8788/pages/15.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/11_1f2e4.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/1_12c3b.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/1_25e2a.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:8788/pages/6.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "engine=http%3A%2F%2Fwww.google.com&term=56",
+            "params": [
+                {
+                    "name": "term",
+                    "value": "56"
+                },
+                {
+                    "name": "engine",
+                    "value": "http://www.google.com"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/7_16a9c.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/21_1f822.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/2_1f84b.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/2_2b7a3.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/13_25af3.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/js/yahoo/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/js/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/3_7e215.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/3_2cc42.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/offscanpages/statistics.php?id=2130706433_1684962793",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "id",
+                "value": "2130706433_1684962793"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/history/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/19_1f52a.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:8788/pages/7.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "ip=127.0.0.1&netmask=255.255.255.0&gateway=56",
+            "params": [
+                {
+                    "name": "ip",
+                    "value": "127.0.0.1"
+                },
+                {
+                    "name": "netmask",
+                    "value": "255.255.255.0"
+                },
+                {
+                    "name": "gateway",
+                    "value": "56"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/js/jquery/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/js/ext/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:8788/innerpages/3_2cc42.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "ip=127.0.0.1&netmask=255.255.255.0&gateway=56",
+            "params": [
+                {
+                    "name": "ip",
+                    "value": "127.0.0.1"
+                },
+                {
+                    "name": "netmask",
+                    "value": "255.255.255.0"
+                },
+                {
+                    "name": "gateway",
+                    "value": "56"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/2_2b7a3.php?819=609",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "819",
+                "value": "609"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/3_5befd.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/3_3fadc.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:8788/innerpages/3_3fadc.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "dns2=56&hn=Smith&dns=56",
+            "params": [
+                {
+                    "name": "dns2",
+                    "value": "56"
+                },
+                {
+                    "name": "hn",
+                    "value": "Smith"
+                },
+                {
+                    "name": "dns",
+                    "value": "56"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/2_2b7a3.php?747=648",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "747",
+                "value": "648"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/3_6ff22.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8788/innerpages/3_45589.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:8788/innerpages/3_45589.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "surname=Smith&name=John&email=w3af%40email.com",
+            "params": [
+                {
+                    "name": "surname",
+                    "value": "Smith"
+                },
+                {
+                    "name": "name",
+                    "value": "John"
+                },
+                {
+                    "name": "email",
+                    "value": "w3af@email.com"
+                }
+            ]
+        }
+    }
+]

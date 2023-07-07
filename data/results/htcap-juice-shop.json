@@ -1,0 +1,165 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/assets/i18n/en.json",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/rest/admin/application-configuration",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/rest/admin/application-version",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/api/Challenges/?name=Score%20Board",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "name",
+                "value": "Score%20Board"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/socket.io/?EIO=3&transport=polling&t=OYjEMUo",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "EIO",
+                "value": "3"
+            },
+            {
+                "name": "transport",
+                "value": "polling"
+            },
+            {
+                "name": "t",
+                "value": "OYjEMUo"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/rest/product/search?q=",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "q",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/socket.io/?EIO=3&transport=websocket&sid=6ax7ycxxmFAPIBFsAAGA",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "EIO",
+                "value": "3"
+            },
+            {
+                "name": "transport",
+                "value": "websocket"
+            },
+            {
+                "name": "sid",
+                "value": "6ax7ycxxmFAPIBFsAAGA"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/socket.io/?EIO=3&transport=polling&t=OYjEMYX&sid=6ax7ycxxmFAPIBFsAAGA",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "EIO",
+                "value": "3"
+            },
+            {
+                "name": "transport",
+                "value": "polling"
+            },
+            {
+                "name": "t",
+                "value": "OYjEMYX"
+            },
+            {
+                "name": "sid",
+                "value": "6ax7ycxxmFAPIBFsAAGA"
+            }
+        ]
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:3200/socket.io/?EIO=3&transport=polling&t=OYjESfB&sid=6ax7ycxxmFAPIBFsAAGA",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "text/plain;charset=UTF-8"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "EIO",
+                "value": "3"
+            },
+            {
+                "name": "transport",
+                "value": "polling"
+            },
+            {
+                "name": "t",
+                "value": "OYjESfB"
+            },
+            {
+                "name": "sid",
+                "value": "6ax7ycxxmFAPIBFsAAGA"
+            }
+        ],
+        "postData": {
+            "mimeType": "text/plain;charset=UTF-8",
+            "text": "1:2",
+            "params": null
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/rest/user/whoami",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/rest/product/1/reviews",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/redirect?to=https://github.com/bkimminich/juice-shop",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "to",
+                "value": "https://github.com/bkimminich/juice-shop"
+            }
+        ]
+    }
+]

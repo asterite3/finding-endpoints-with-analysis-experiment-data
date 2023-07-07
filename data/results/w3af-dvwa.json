@@ -1,0 +1,714 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/xss_d/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/javascript/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/phpinfo.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/weak_id/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/captcha/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/sqli_blind/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/upload/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/fi/?page=include.php",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "page",
+                "value": "include.php"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/sqli/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/csrf/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/xss_s/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/setup.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/security.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/instructions.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/brute/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/exec/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/authbypass/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/about.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/csp/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/xss_r/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/csrf/test_credentials.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/captcha/",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "password_conf=FrAmE30.&source_button=View%20Source&password_new=FrAmE30.&help_button=View%20Help&step=1&Change=Change",
+            "params": [
+                {
+                    "name": "password_conf",
+                    "value": "FrAmE30."
+                },
+                {
+                    "name": "source_button",
+                    "value": "View Source"
+                },
+                {
+                    "name": "password_new",
+                    "value": "FrAmE30."
+                },
+                {
+                    "name": "help_button",
+                    "value": "View Help"
+                },
+                {
+                    "name": "step",
+                    "value": "1"
+                },
+                {
+                    "name": "Change",
+                    "value": "Change"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/xss_s/",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "source_button=View%20Source&help_button=View%20Help&btnSign=Sign%20Guestbook&txtName=John&btnClear=Clear%20Guestbook",
+            "params": [
+                {
+                    "name": "help_button",
+                    "value": "View Help"
+                },
+                {
+                    "name": "btnSign",
+                    "value": "Sign Guestbook"
+                },
+                {
+                    "name": "txtName",
+                    "value": "John"
+                },
+                {
+                    "name": "btnClear",
+                    "value": "Clear Guestbook"
+                },
+                {
+                    "name": "source_button",
+                    "value": "View Source"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/exec/",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "74"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 74,
+        "postData": {
+            "text": "ip=127.0.0.1&help_button=View Help&Submit=Submit&source_button=View Source",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "ip",
+                    "value": "127.0.0.1"
+                },
+                {
+                    "name": "help_button",
+                    "value": "View Help"
+                },
+                {
+                    "name": "Submit",
+                    "value": "Submit"
+                },
+                {
+                    "name": "source_button",
+                    "value": "View Source"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/weak_id/",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "help_button=View%20Help&source_button=View%20Source",
+            "params": [
+                {
+                    "name": "help_button",
+                    "value": "View Help"
+                },
+                {
+                    "name": "source_button",
+                    "value": "View Source"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/ids_log.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/brute/?username=&source_button=View%20Source&Login=Login&password=&help_button=View%20Help",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "username",
+                "value": ""
+            },
+            {
+                "name": "source_button",
+                "value": "View%20Source"
+            },
+            {
+                "name": "Login",
+                "value": "Login"
+            },
+            {
+                "name": "password",
+                "value": ""
+            },
+            {
+                "name": "help_button",
+                "value": "View%20Help"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/xss_d/?default=&help_button=View%20Help&source_button=View%20Source",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "default",
+                "value": ""
+            },
+            {
+                "name": "help_button",
+                "value": "View%20Help"
+            },
+            {
+                "name": "source_button",
+                "value": "View%20Source"
+            }
+        ]
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/sqli/",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "66"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 66,
+        "postData": {
+            "text": "Submit=Submit&source_button=View Source&help_button=View Help&id=2",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "Submit",
+                    "value": "Submit"
+                },
+                {
+                    "name": "source_button",
+                    "value": "View Source"
+                },
+                {
+                    "name": "help_button",
+                    "value": "View Help"
+                },
+                {
+                    "name": "id",
+                    "value": "2"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/csrf/?password_new=&help_button=View%20Help&password_conf=&Change=Change&source_button=View%20Source",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "password_new",
+                "value": ""
+            },
+            {
+                "name": "help_button",
+                "value": "View%20Help"
+            },
+            {
+                "name": "password_conf",
+                "value": ""
+            },
+            {
+                "name": "Change",
+                "value": "Change"
+            },
+            {
+                "name": "source_button",
+                "value": "View%20Source"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/instructions.php?doc=PHPIDS-license",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "doc",
+                "value": "PHPIDS-license"
+            }
+        ]
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/csp/",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "58"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 58,
+        "postData": {
+            "text": "source_button=View Source&include=56&help_button=View Help",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "source_button",
+                    "value": "View Source"
+                },
+                {
+                    "name": "include",
+                    "value": "56"
+                },
+                {
+                    "name": "help_button",
+                    "value": "View Help"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.fr.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.es.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.zh.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.tr.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.fa.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.ar.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/ERADEM.fr.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/xss_r/?help_button=View%20Help&name=&source_button=View%20Source",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "help_button",
+                "value": "View%20Help"
+            },
+            {
+                "name": "name",
+                "value": ""
+            },
+            {
+                "name": "source_button",
+                "value": "View%20Source"
+            }
+        ]
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/upload/",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "multipart/form-data; boundary=b08c02-53d780-e2bc43-1d5278-a3c0d9-a5c0d9"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "multipart/form-data; boundary=b08c02-53d780-e2bc43-1d5278-a3c0d9-a5c0d9",
+            "text": "--b08c02-53d780-e2bc43-1d5278-a3c0d9-a5c0d9\r\nContent-Disposition: form-data; name=\"MAX_FILE_SIZE\"\r\n\r\n100000\r\n--b08c02-53d780-e2bc43-1d5278-a3c0d9-a5c0d9\r\nContent-Disposition: form-data; name=\"Upload\"\r\n\r\nUpload\r\n--b08c02-53d780-e2bc43-1d5278-a3c0d9-a5c0d9\r\nContent-Disposition: form-data; name=\"help_button\"\r\n\r\nView Help\r\n--b08c02-53d780-e2bc43-1d5278-a3c0d9-a5c0d9\r\nContent-Disposition: form-data; name=\"source_button\"\r\n\r\nView Source\r\n--b08c02-53d780-e2bc43-1d5278-a3c0d9-a5c0d9\r\nContent-Disposition: form-data; name=\"uploaded\"; filename=\"USDVTnX.gif\"\r\nContent-Type: image/gif\r\n\r\nGIF89a\u0001\u0000\u0001\u0000�\u0000\u0000������!��AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\u0000,\u0000\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0002\u0002D\u0001\u0000;\r\n--b08c02-53d780-e2bc43-1d5278-a3c0d9-a5c0d9--\r\n\r\n",
+            "params": [
+                {
+                    "name": "MAX_FILE_SIZE",
+                    "value": "100000"
+                },
+                {
+                    "name": "Upload",
+                    "value": "Upload"
+                },
+                {
+                    "name": "help_button",
+                    "value": "View Help"
+                },
+                {
+                    "name": "source_button",
+                    "value": "View Source"
+                },
+                {
+                    "name": "uploaded",
+                    "value": "<FILE>"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/javascript/",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "phrase=ChangeMe&token=4271a25e-7211-4306-b527-46196eb2af28&help_button=View%20Help&send=Submit&source_button=View%20Source",
+            "params": [
+                {
+                    "name": "phrase",
+                    "value": "ChangeMe"
+                },
+                {
+                    "name": "token",
+                    "value": "4271a25e-7211-4306-b527-46196eb2af28"
+                },
+                {
+                    "name": "help_button",
+                    "value": "View Help"
+                },
+                {
+                    "name": "send",
+                    "value": "Submit"
+                },
+                {
+                    "name": "source_button",
+                    "value": "View Source"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/sqli_blind/",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "help_button=View%20Help&id=1&Submit=Submit&source_button=View%20Source",
+            "params": [
+                {
+                    "name": "help_button",
+                    "value": "View Help"
+                },
+                {
+                    "name": "id",
+                    "value": "1"
+                },
+                {
+                    "name": "Submit",
+                    "value": "Submit"
+                },
+                {
+                    "name": "source_button",
+                    "value": "View Source"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/security.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "80"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 80,
+        "postData": {
+            "text": "user_token=995121f47711c79bc90b5771f30335ff&security=medium&seclev_submit=Submit",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "user_token",
+                    "value": "995121f47711c79bc90b5771f30335ff"
+                },
+                {
+                    "name": "security",
+                    "value": "medium"
+                },
+                {
+                    "name": "seclev_submit",
+                    "value": "Submit"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/setup.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "77"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 77,
+        "postData": {
+            "text": "user_token=3027e88248f8cb5e882d5702af3fe546&create_db=Create / Reset Database",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "user_token",
+                    "value": "3027e88248f8cb5e882d5702af3fe546"
+                },
+                {
+                    "name": "create_db",
+                    "value": "Create / Reset Database"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/csrf/test_credentials.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "username=John8212&Login=Login&password=FrAmE30.",
+            "params": [
+                {
+                    "name": "username",
+                    "value": "John8212"
+                },
+                {
+                    "name": "Login",
+                    "value": "Login"
+                },
+                {
+                    "name": "password",
+                    "value": "FrAmE30."
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/ids_log.php?clear_log=Clear%20Log",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "clear_log",
+                "value": "Clear%20Log"
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/favicon.ico",
+        "headers": [],
+        "queryString": []
+    }
+]

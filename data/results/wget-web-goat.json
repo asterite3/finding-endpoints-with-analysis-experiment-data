@@ -1,0 +1,77 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/start.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/images/favicon.ico",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/welcome.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/fonts/fontawesome-webfont.eot?v=4.0.3",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "v",
+                "value": "4.0.3"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/fonts/fontawesome-webfont.eot?",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/fonts/fontawesome-webfont.ttf?v=4.0.3",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "v",
+                "value": "4.0.3"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/fonts/fontawesome-webfont.svg?v=4.0.3",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "v",
+                "value": "4.0.3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/rest/admin/application-configuration",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/assets/i18n/en.json",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/socket.io/?EIO=3&transport=polling&t=OYn978O",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "EIO",
+                "value": "3"
+            },
+            {
+                "name": "transport",
+                "value": "polling"
+            },
+            {
+                "name": "t",
+                "value": "OYn978O"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/rest/admin/application-version",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/api/Challenges/?name=Score%20Board",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "name",
+                "value": "Score%20Board"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/rest/product/search?q=",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "q",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/socket.io/?EIO=3&transport=websocket&sid=COWNFoUoZ0MK8E9pAAGB",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "EIO",
+                "value": "3"
+            },
+            {
+                "name": "transport",
+                "value": "websocket"
+            },
+            {
+                "name": "sid",
+                "value": "COWNFoUoZ0MK8E9pAAGB"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:3200/socket.io/?EIO=3&transport=polling&t=OYn97BQ&sid=COWNFoUoZ0MK8E9pAAGB",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "EIO",
+                "value": "3"
+            },
+            {
+                "name": "transport",
+                "value": "polling"
+            },
+            {
+                "name": "t",
+                "value": "OYn97BQ"
+            },
+            {
+                "name": "sid",
+                "value": "COWNFoUoZ0MK8E9pAAGB"
+            }
+        ]
+    }
+]

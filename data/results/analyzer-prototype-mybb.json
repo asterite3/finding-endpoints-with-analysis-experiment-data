@@ -1,0 +1,1887 @@
+[
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/archive/index.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/showteam.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/stats.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/contact.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/misc.php?action=whoposted&tid=UNKNOWN&modal=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "whoposted"
+            },
+            {
+                "name": "tid",
+                "value": "UNKNOWN"
+            },
+            {
+                "name": "modal",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/misc.php?action=whoposted&tid=UNKNOWN&sort=&modal=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "whoposted"
+            },
+            {
+                "name": "tid",
+                "value": "UNKNOWN"
+            },
+            {
+                "name": "sort",
+                "value": ""
+            },
+            {
+                "name": "modal",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/misc.php?action=markread&fid=UNKNOWN&ajax=1&my_post_key=343c4054dd5a9d29269c6c97c57e6317",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "markread"
+            },
+            {
+                "name": "fid",
+                "value": "UNKNOWN"
+            },
+            {
+                "name": "ajax",
+                "value": "1"
+            },
+            {
+                "name": "my_post_key",
+                "value": "343c4054dd5a9d29269c6c97c57e6317"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/misc.php?action=dstswitch&ajax=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "dstswitch"
+            },
+            {
+                "name": "ajax",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0,
+        "postData": {
+            "text": ""
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/reputation.php?modal=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "17"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "modal",
+                "value": "1"
+            }
+        ],
+        "bodySize": 17,
+        "postData": {
+            "text": "UNKNOWN=&delete=1",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "UNKNOWN",
+                    "value": ""
+                },
+                {
+                    "name": "delete",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/reputation.php?action=add&uid=UNKNOWN&pid=0&modal=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "add"
+            },
+            {
+                "name": "uid",
+                "value": "UNKNOWN"
+            },
+            {
+                "name": "pid",
+                "value": "0"
+            },
+            {
+                "name": "modal",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/member.php?action=viewnotes&uid=UNKNOWN&modal=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "viewnotes"
+            },
+            {
+                "name": "uid",
+                "value": "UNKNOWN"
+            },
+            {
+                "name": "modal",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/moderation.php?action=getip&pid=UNKNOWN&modal=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "getip"
+            },
+            {
+                "name": "pid",
+                "value": "UNKNOWN"
+            },
+            {
+                "name": "modal",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/moderation.php?action=getpmip&pmid=UNKNOWN&modal=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "getpmip"
+            },
+            {
+                "name": "pmid",
+                "value": "UNKNOWN"
+            },
+            {
+                "name": "modal",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/index.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/portal.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/search.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/memberlist.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/calendar.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/misc.php?action=help",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "help"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/member.php?action=login",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "login"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/member.php?action=register",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "register"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/member.php?action=lostpw",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "lostpw"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/forumdisplay.php?fid=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "fid",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/online.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/member.php?action=profile&uid=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "profile"
+            },
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/misc.php?action=markread",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "markread"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/misc.php?action=syndication",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "syndication"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/search.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "39"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 39,
+        "postData": {
+            "text": "keywords=&action=do_search&postthread=1",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "keywords",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "do_search"
+                },
+                {
+                    "name": "postthread",
+                    "type": "hidden",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/member.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "165"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 165,
+        "postData": {
+            "text": "action=do_login&url=http://mybb.teststand/&quick_login=1&my_post_key=343c4054dd5a9d29269c6c97c57e6317&quick_username=&quick_password=&quick_remember=yes&submit=Login",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "do_login"
+                },
+                {
+                    "name": "url",
+                    "type": "hidden",
+                    "value": "http://mybb.teststand/"
+                },
+                {
+                    "name": "quick_login",
+                    "type": "hidden",
+                    "value": "1"
+                },
+                {
+                    "name": "my_post_key",
+                    "type": "hidden",
+                    "value": "343c4054dd5a9d29269c6c97c57e6317"
+                },
+                {
+                    "name": "quick_username",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "quick_password",
+                    "type": "password",
+                    "value": ""
+                },
+                {
+                    "name": "quick_remember",
+                    "type": "checkbox",
+                    "value": "yes"
+                },
+                {
+                    "name": "submit",
+                    "type": "submit",
+                    "value": "Login"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/calendar.php?calendar=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "calendar",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/calendar.php?calendar=1&year=2023&month=5",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "calendar",
+                "value": "1"
+            },
+            {
+                "name": "year",
+                "value": "2023"
+            },
+            {
+                "name": "month",
+                "value": "5"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/calendar.php?action=weekview&calendar=1&week=1685232000",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "weekview"
+            },
+            {
+                "name": "calendar",
+                "value": "1"
+            },
+            {
+                "name": "week",
+                "value": "1685232000"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/calendar.php?action=dayview&calendar=1&year=2023&month=5&day=28",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "dayview"
+            },
+            {
+                "name": "calendar",
+                "value": "1"
+            },
+            {
+                "name": "year",
+                "value": "2023"
+            },
+            {
+                "name": "month",
+                "value": "5"
+            },
+            {
+                "name": "day",
+                "value": "28"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/calendar.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "17"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 17,
+        "postData": {
+            "text": "month=6&year=2023",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "month",
+                    "value": "6"
+                },
+                {
+                    "name": "year",
+                    "value": "2023"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/member.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 135,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "do_login"
+                },
+                {
+                    "name": "url",
+                    "type": "hidden",
+                    "value": "/portal.php?"
+                },
+                {
+                    "name": "username",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "password",
+                    "type": "password",
+                    "value": ""
+                },
+                {
+                    "name": "remember",
+                    "type": "checkbox",
+                    "value": "yes"
+                },
+                {
+                    "name": "loginsubmit",
+                    "type": "submit",
+                    "value": "Login!"
+                },
+                {
+                    "name": "my_post_key",
+                    "type": "hidden",
+                    "value": "343c4054dd5a9d29269c6c97c57e6317"
+                }
+            ],
+            "text": "action=do_login&url=%2Fportal.php%3F&username=&password=&remember=yes&loginsubmit=Login%21&my_post_key=343c4054dd5a9d29269c6c97c57e6317"
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/search.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 70,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "do_search"
+                },
+                {
+                    "name": "postthread",
+                    "type": "hidden",
+                    "value": "1"
+                },
+                {
+                    "name": "forums",
+                    "type": "hidden",
+                    "value": "all"
+                },
+                {
+                    "name": "showresults",
+                    "type": "hidden",
+                    "value": "threads"
+                },
+                {
+                    "name": "keywords",
+                    "type": "text",
+                    "value": ""
+                }
+            ],
+            "text": "action=do_search&postthread=1&forums=all&showresults=threads&keywords="
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/member.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 111,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "username",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "password",
+                    "type": "password",
+                    "value": ""
+                },
+                {
+                    "name": "remember",
+                    "type": "checkbox",
+                    "value": "yes"
+                },
+                {
+                    "name": "submit",
+                    "type": "submit",
+                    "value": "Login"
+                },
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "do_login"
+                },
+                {
+                    "name": "url",
+                    "type": "hidden",
+                    "value": ""
+                },
+                {
+                    "name": "my_post_key",
+                    "type": "hidden",
+                    "value": "343c4054dd5a9d29269c6c97c57e6317"
+                }
+            ],
+            "text": "username=&password=&remember=yes&submit=Login&action=do_login&url=&my_post_key=343c4054dd5a9d29269c6c97c57e6317"
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/member.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 44,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "step",
+                    "type": "hidden",
+                    "value": "agreement"
+                },
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "register"
+                },
+                {
+                    "name": "agree",
+                    "type": "submit",
+                    "value": "I Agree"
+                }
+            ],
+            "text": "step=agreement&action=register&agree=I+Agree"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/memberlist.php?username_match=begins&username=A",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "username_match",
+                "value": "begins"
+            },
+            {
+                "name": "username",
+                "value": "A"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/memberlist.php?perpage=20&sort=username&order=ascending",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "perpage",
+                "value": "20"
+            },
+            {
+                "name": "sort",
+                "value": "username"
+            },
+            {
+                "name": "order",
+                "value": "ascending"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/memberlist.php?action=search",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "search"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/memberlist.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "79"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 79,
+        "postData": {
+            "text": "username=A&website=&order=ascending&order=descending&sort=regdate&submit=Search",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "username",
+                    "type": "text",
+                    "value": "A"
+                },
+                {
+                    "name": "website",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "order",
+                    "type": "radio",
+                    "value": "ascending"
+                },
+                {
+                    "name": "order",
+                    "type": "radio",
+                    "value": "descending"
+                },
+                {
+                    "name": "sort",
+                    "value": "regdate"
+                },
+                {
+                    "name": "submit",
+                    "type": "submit",
+                    "value": "Search"
+                }
+            ]
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/search.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 242,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "do_search"
+                },
+                {
+                    "name": "keywords",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "postthread",
+                    "type": "radio",
+                    "value": "1"
+                },
+                {
+                    "name": "postthread",
+                    "type": "radio",
+                    "value": "2"
+                },
+                {
+                    "name": "author",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "matchusername",
+                    "type": "checkbox",
+                    "value": "1"
+                },
+                {
+                    "name": "forums[]",
+                    "value": "all"
+                },
+                {
+                    "name": "findthreadst",
+                    "value": "1"
+                },
+                {
+                    "name": "numreplies",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "postdate",
+                    "value": "0"
+                },
+                {
+                    "name": "pddir",
+                    "type": "radio",
+                    "value": "1"
+                },
+                {
+                    "name": "pddir",
+                    "type": "radio",
+                    "value": "0"
+                },
+                {
+                    "name": "sortby",
+                    "value": "lastpost"
+                },
+                {
+                    "name": "sortordr",
+                    "type": "radio",
+                    "value": "asc"
+                },
+                {
+                    "name": "sortordr",
+                    "type": "radio",
+                    "value": "desc"
+                },
+                {
+                    "name": "showresults",
+                    "type": "radio",
+                    "value": "threads"
+                },
+                {
+                    "name": "showresults",
+                    "type": "radio",
+                    "value": "posts"
+                },
+                {
+                    "name": "submit",
+                    "type": "submit",
+                    "value": "Search"
+                }
+            ],
+            "text": "action=do_search&keywords=&postthread=1&postthread=2&author=&matchusername=1&forums%5B%5D=all&findthreadst=1&numreplies=&postdate=0&pddir=1&pddir=0&sortby=lastpost&sortordr=asc&sortordr=desc&showresults=threads&showresults=posts&submit=Search"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/misc.php?action=help&hid=2",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "help"
+            },
+            {
+                "name": "hid",
+                "value": "2"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/misc.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 91,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "keywords",
+                    "type": "text",
+                    "value": "Enter Keywords"
+                },
+                {
+                    "name": "name",
+                    "type": "checkbox",
+                    "value": "1"
+                },
+                {
+                    "name": "document",
+                    "type": "checkbox",
+                    "value": "1"
+                },
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "do_helpsearch"
+                },
+                {
+                    "name": "submit",
+                    "type": "submit",
+                    "value": "Search Help Documents"
+                }
+            ],
+            "text": "keywords=Enter+Keywords&name=1&document=1&action=do_helpsearch&submit=Search+Help+Documents"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/xmlhttp.php?action=refresh_captcha&imagehash=UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "refresh_captcha"
+            },
+            {
+                "name": "imagehash",
+                "value": "UNKNOWN"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/captcha.php?imagehash=dadc07bfb53cd4d7a8291714464d3d71",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "imagehash",
+                "value": "dadc07bfb53cd4d7a8291714464d3d71"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/member.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 95,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "email",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "imagestring",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "imagehash",
+                    "type": "hidden",
+                    "value": "dadc07bfb53cd4d7a8291714464d3d71"
+                },
+                {
+                    "name": "refresh",
+                    "type": "button",
+                    "value": "Refresh"
+                },
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "do_lostpw"
+                }
+            ],
+            "text": "email=&imagestring=&imagehash=dadc07bfb53cd4d7a8291714464d3d71&refresh=Refresh&action=do_lostpw"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/archive/index.php?forum-1.html=",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "forum-1.html",
+                "value": ""
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/online.php?sortby=username",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "sortby",
+                "value": "username"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/online.php?action=today",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "today"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/ratethread.php?ajax=1&my_post_key=343c4054dd5a9d29269c6c97c57e6317&tid=UNKNOWN&rating=UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "ajax",
+                "value": "1"
+            },
+            {
+                "name": "my_post_key",
+                "value": "343c4054dd5a9d29269c6c97c57e6317"
+            },
+            {
+                "name": "tid",
+                "value": "UNKNOWN"
+            },
+            {
+                "name": "rating",
+                "value": "UNKNOWN"
+            }
+        ],
+        "bodySize": 0,
+        "postData": {
+            "text": ""
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/misc.php?action=markread&fid=2",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "markread"
+            },
+            {
+                "name": "fid",
+                "value": "2"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/usercp.php?action=addsubscription&type=forum&fid=2&my_post_key=343c4054dd5a9d29269c6c97c57e6317",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "addsubscription"
+            },
+            {
+                "name": "type",
+                "value": "forum"
+            },
+            {
+                "name": "fid",
+                "value": "2"
+            },
+            {
+                "name": "my_post_key",
+                "value": "343c4054dd5a9d29269c6c97c57e6317"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/forumdisplay.php?fid=2&datecut=9999&prefix=0&sortby=subject&order=asc",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "fid",
+                "value": "2"
+            },
+            {
+                "name": "datecut",
+                "value": "9999"
+            },
+            {
+                "name": "prefix",
+                "value": "0"
+            },
+            {
+                "name": "sortby",
+                "value": "subject"
+            },
+            {
+                "name": "order",
+                "value": "asc"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/archive/index.php?forum-2.html=",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "forum-2.html",
+                "value": ""
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/forumdisplay.php?fid=2&sortby=lastpost&order=desc&datecut=9999",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "fid",
+                "value": "2"
+            },
+            {
+                "name": "sortby",
+                "value": "lastpost"
+            },
+            {
+                "name": "order",
+                "value": "desc"
+            },
+            {
+                "name": "datecut",
+                "value": "9999"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/search.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "48"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 48,
+        "postData": {
+            "text": "keywords=&action=do_search&forums=2&postthread=1",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "keywords",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "do_search"
+                },
+                {
+                    "name": "forums",
+                    "type": "hidden",
+                    "value": "2"
+                },
+                {
+                    "name": "postthread",
+                    "type": "hidden",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/member.php?action=emailuser&uid=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "emailuser"
+            },
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/private.php?action=send&uid=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "send"
+            },
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/report.php?modal=1&type=post&pid=UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "modal",
+                "value": "1"
+            },
+            {
+                "name": "type",
+                "value": "post"
+            },
+            {
+                "name": "pid",
+                "value": "UNKNOWN"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/report.php?modal=1&type=profile&pid=UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "modal",
+                "value": "1"
+            },
+            {
+                "name": "type",
+                "value": "profile"
+            },
+            {
+                "name": "pid",
+                "value": "UNKNOWN"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/report.php?modal=1&type=reputation&pid=UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "modal",
+                "value": "1"
+            },
+            {
+                "name": "type",
+                "value": "reputation"
+            },
+            {
+                "name": "pid",
+                "value": "UNKNOWN"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/search.php?action=finduser&uid=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "finduser"
+            },
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/search.php?action=finduserthreads&uid=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "finduserthreads"
+            },
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/reputation.php?uid=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/contact.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 153,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "my_post_key",
+                    "type": "hidden",
+                    "value": "343c4054dd5a9d29269c6c97c57e6317"
+                },
+                {
+                    "name": "subject",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "message",
+                    "value": ""
+                },
+                {
+                    "name": "email",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "imagestring",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "imagehash",
+                    "type": "hidden",
+                    "value": "1e9e0d521c7d9d9b9be5135b68c9502e"
+                },
+                {
+                    "name": "refresh",
+                    "type": "button",
+                    "value": "Refresh"
+                },
+                {
+                    "name": "submit",
+                    "type": "submit",
+                    "value": "Send"
+                }
+            ],
+            "text": "my_post_key=343c4054dd5a9d29269c6c97c57e6317&subject=&message=&email=&imagestring=&imagehash=1e9e0d521c7d9d9b9be5135b68c9502e&refresh=Refresh&submit=Send"
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/misc.php?action=syndication",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "syndication"
+            }
+        ],
+        "bodySize": 86,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "forums[]",
+                    "value": "all"
+                },
+                {
+                    "name": "version",
+                    "type": "radio",
+                    "value": "rss2.0"
+                },
+                {
+                    "name": "version",
+                    "type": "radio",
+                    "value": "atom1.0"
+                },
+                {
+                    "name": "limit",
+                    "type": "text",
+                    "value": "15"
+                },
+                {
+                    "name": "make",
+                    "type": "submit",
+                    "value": "Generate Syndication URL"
+                }
+            ],
+            "text": "forums%5B%5D=all&version=rss2.0&version=atom1.0&limit=15&make=Generate+Syndication+URL"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/calendar.php?action=addevent&calendar=1&day=28&month=5&year=2023",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "addevent"
+            },
+            {
+                "name": "calendar",
+                "value": "1"
+            },
+            {
+                "name": "day",
+                "value": "28"
+            },
+            {
+                "name": "month",
+                "value": "5"
+            },
+            {
+                "name": "year",
+                "value": "2023"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/memberlist.php?perpage=20&username_match=begins&username=A&sort=username&order=ascending",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "perpage",
+                "value": "20"
+            },
+            {
+                "name": "username_match",
+                "value": "begins"
+            },
+            {
+                "name": "username",
+                "value": "A"
+            },
+            {
+                "name": "sort",
+                "value": "username"
+            },
+            {
+                "name": "order",
+                "value": "ascending"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/memberlist.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 127,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "username_match",
+                    "value": "begins"
+                },
+                {
+                    "name": "username",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "website",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "skype",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "google",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "yahoo",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "icq",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "sort",
+                    "value": "username"
+                },
+                {
+                    "name": "order",
+                    "type": "radio",
+                    "value": "asc"
+                },
+                {
+                    "name": "order",
+                    "type": "radio",
+                    "value": "desc"
+                },
+                {
+                    "name": "perpage",
+                    "type": "text",
+                    "value": "15"
+                },
+                {
+                    "name": "submit",
+                    "type": "submit",
+                    "value": "Search"
+                }
+            ],
+            "text": "username_match=begins&username=&website=&skype=&google=&yahoo=&icq=&sort=username&order=asc&order=desc&perpage=15&submit=Search"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/misc.php?action=clearcookies&my_post_key=343c4054dd5a9d29269c6c97c57e6317",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "clearcookies"
+            },
+            {
+                "name": "my_post_key",
+                "value": "343c4054dd5a9d29269c6c97c57e6317"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/forumdisplay.php?fid=1&page=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "fid",
+                "value": "1"
+            },
+            {
+                "name": "page",
+                "value": "1"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://mybb.teststand/member.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            },
+            {
+                "name": "Content-Length",
+                "value": "194"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 194,
+        "postData": {
+            "text": "action=do_login&url=/usercp.php?action=addsubscription&type=forum&fid=2&my_post_key=5ea3d13c94773648348a18c6c6e109a5&my_post_key=343c4054dd5a9d29269c6c97c57e6317&username=&password=&remember=yes",
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "action",
+                    "type": "hidden",
+                    "value": "do_login"
+                },
+                {
+                    "name": "url",
+                    "type": "hidden",
+                    "value": "/usercp.php?action=addsubscription&type=forum&fid=2&my_post_key=5ea3d13c94773648348a18c6c6e109a5"
+                },
+                {
+                    "name": "my_post_key",
+                    "type": "hidden",
+                    "value": "343c4054dd5a9d29269c6c97c57e6317"
+                },
+                {
+                    "name": "username",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "password",
+                    "type": "password",
+                    "value": ""
+                },
+                {
+                    "name": "remember",
+                    "type": "checkbox",
+                    "value": "yes"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/search.php?action=results&sid=2b75ffbb0cda13b1700101c688318213",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "results"
+            },
+            {
+                "name": "sid",
+                "value": "2b75ffbb0cda13b1700101c688318213"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://mybb.teststand/reputation.php?uid=1&show=all&sort=dateline",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "uid",
+                "value": "1"
+            },
+            {
+                "name": "show",
+                "value": "all"
+            },
+            {
+                "name": "sort",
+                "value": "dateline"
+            }
+        ],
+        "bodySize": 0
+    }
+]

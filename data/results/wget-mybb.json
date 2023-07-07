@@ -1,0 +1,661 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/syndication.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/syndication.php?type=atom1.0",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "type",
+                "value": "atom1.0"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/index.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/portal.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/search.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/memberlist.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/calendar.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/misc.php?action=help",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "help"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/member.php?action=login",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "login"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/member.php?action=register",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "register"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/member.php?action=lostpw",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "lostpw"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/forumdisplay.php?fid=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "fid",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/online.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/member.php?action=profile&uid=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "profile"
+            },
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/showteam.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/stats.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/contact.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/archive/index.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/misc.php?action=markread",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "markread"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/misc.php?action=syndication",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "syndication"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/task.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/syndication.php?portal=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "portal",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/syndication.php?portal=1&type=atom1.0",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "portal",
+                "value": "1"
+            },
+            {
+                "name": "type",
+                "value": "atom1.0"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/memberlist.php?username_match=begins&username=A",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "username_match",
+                "value": "begins"
+            },
+            {
+                "name": "username",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/memberlist.php?perpage=20&sort=username&order=ascending",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "perpage",
+                "value": "20"
+            },
+            {
+                "name": "sort",
+                "value": "username"
+            },
+            {
+                "name": "order",
+                "value": "ascending"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/memberlist.php?action=search",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "search"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/calendar.php?calendar=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "calendar",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/calendar.php?calendar=1&year=2023&month=5",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "calendar",
+                "value": "1"
+            },
+            {
+                "name": "year",
+                "value": "2023"
+            },
+            {
+                "name": "month",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/calendar.php?action=weekview&calendar=1&week=1685232000",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "weekview"
+            },
+            {
+                "name": "calendar",
+                "value": "1"
+            },
+            {
+                "name": "week",
+                "value": "1685232000"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/calendar.php?action=dayview&calendar=1&year=2023&month=5&day=28",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "dayview"
+            },
+            {
+                "name": "calendar",
+                "value": "1"
+            },
+            {
+                "name": "year",
+                "value": "2023"
+            },
+            {
+                "name": "month",
+                "value": "5"
+            },
+            {
+                "name": "day",
+                "value": "28"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/misc.php?action=help&hid=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "help"
+            },
+            {
+                "name": "hid",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/captcha.php?imagehash=e09ffd818e0226a5c703e187877c9bf8",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "imagehash",
+                "value": "e09ffd818e0226a5c703e187877c9bf8"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/archive/index.php?forum-1.html",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "forum-1.html",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/syndication.php?fid=2",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "fid",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/syndication.php?type=atom1.0&fid=2",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "type",
+                "value": "atom1.0"
+            },
+            {
+                "name": "fid",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/misc.php?action=markread&fid=2",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "markread"
+            },
+            {
+                "name": "fid",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/usercp.php?action=addsubscription&type=forum&fid=2&my_post_key=2b684e9d1e5739a9cc64f4fe4ff07d5c",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "addsubscription"
+            },
+            {
+                "name": "type",
+                "value": "forum"
+            },
+            {
+                "name": "fid",
+                "value": "2"
+            },
+            {
+                "name": "my_post_key",
+                "value": "2b684e9d1e5739a9cc64f4fe4ff07d5c"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/forumdisplay.php?fid=2&datecut=9999&prefix=0&sortby=subject&order=asc",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "fid",
+                "value": "2"
+            },
+            {
+                "name": "datecut",
+                "value": "9999"
+            },
+            {
+                "name": "prefix",
+                "value": "0"
+            },
+            {
+                "name": "sortby",
+                "value": "subject"
+            },
+            {
+                "name": "order",
+                "value": "asc"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/archive/index.php?forum-2.html",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "forum-2.html",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/online.php?sortby=username",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "sortby",
+                "value": "username"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/online.php?action=today",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "today"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/search.php?action=finduser&uid=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "finduser"
+            },
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/search.php?action=finduserthreads&uid=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "finduserthreads"
+            },
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/reputation.php?uid=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/member.php?action=emailuser&uid=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "emailuser"
+            },
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/private.php?action=send&uid=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "send"
+            },
+            {
+                "name": "uid",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/memberlist.php?perpage=20&username_match=begins&username=A&sort=username&order=ascending",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "perpage",
+                "value": "20"
+            },
+            {
+                "name": "username_match",
+                "value": "begins"
+            },
+            {
+                "name": "username",
+                "value": "A"
+            },
+            {
+                "name": "sort",
+                "value": "username"
+            },
+            {
+                "name": "order",
+                "value": "ascending"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/calendar.php?action=addevent&calendar=1&day=28&month=5&year=2023",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "addevent"
+            },
+            {
+                "name": "calendar",
+                "value": "1"
+            },
+            {
+                "name": "day",
+                "value": "28"
+            },
+            {
+                "name": "month",
+                "value": "5"
+            },
+            {
+                "name": "year",
+                "value": "2023"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/misc.php?action=clearcookies&my_post_key=2b684e9d1e5739a9cc64f4fe4ff07d5c",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "clearcookies"
+            },
+            {
+                "name": "my_post_key",
+                "value": "2b684e9d1e5739a9cc64f4fe4ff07d5c"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/forumdisplay.php?fid=1&page=1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "fid",
+                "value": "1"
+            },
+            {
+                "name": "page",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/search.php?action=results&sid=ab945bb49e81d7ea243beae26eb2d7c5",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "results"
+            },
+            {
+                "name": "sid",
+                "value": "ab945bb49e81d7ea243beae26eb2d7c5"
+            }
+        ]
+    }
+]

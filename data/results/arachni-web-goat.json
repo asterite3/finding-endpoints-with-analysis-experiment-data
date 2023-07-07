@@ -1,0 +1,500 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/start.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/welcome.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/js/goatApp/templates/paging_controls.html",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/labels.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/lessonmenu.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/js/goatApp/templates/report_card.html",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/reportcard.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/WebGoatIntroduction.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/lessoninfo.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/lessonoverview.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/hint.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/WebWolfIntroduction.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/HttpBasics.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/HttpProxies.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/ChromeDevTools.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/handling",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/HttpBasics/attack2",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/HttpBasics/attack1",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/SqlInjection.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/SqlInjectionAdvanced.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/restartlesson.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/AuthBypass.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/JWT.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/auth-bypass/verify-account",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/PasswordReset.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/XXE.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/IDOR.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/MissingFunctionAC.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/CrossSiteScripting.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/InsecureDeserialization.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/users",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/access-control/hidden-menu",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/config",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/access-control/user-hash",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/VulnerableComponents.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/CSRF.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/SSRF.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/BypassRestrictions.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/ClientSideFiltering.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/BypassRestrictions/FieldRestrictions",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/BypassRestrictions/frontendValidation/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/HtmlTampering.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/clientSideFiltering/attack1",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/clientSideFiltering/getItForFree",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/HtmlTampering/task",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/Challenge1.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/logo",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/scoreboard",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/flag",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/1",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/Challenge5.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/Challenge7.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/5",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/Challenge8.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/challenge/7/.git/hooks",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/7",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/js/goatApp/templates/scoreboard.html",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/scoreboard-data",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/8/votes/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/8/votes/average",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/5",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded; charset=UTF-8"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded; charset=UTF-8",
+            "text": "username_login=arachni_name&password_login=5543!%25arachni_secret",
+            "params": null
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/8/vote/1",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/8/vote/2",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/8/vote/3",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/8/vote/4",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/CIA.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/Crypto.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/LessonTemplate.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/SqlInjectionMitigations.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/PathTraversal.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/SecurePasswords.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/InsecureLogin.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/InsecureLogin/task",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/flag",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded; charset=UTF-8"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded; charset=UTF-8",
+            "text": "flag=1",
+            "params": null
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/7",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded; charset=UTF-8"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded; charset=UTF-8",
+            "text": "email=arachni%40email.gr&token=",
+            "params": null
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/challenge/8/vote/5",
+        "headers": [],
+        "queryString": []
+    }
+]

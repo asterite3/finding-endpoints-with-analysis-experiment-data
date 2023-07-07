@@ -1,0 +1,98 @@
+[
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/service/labels.mvc",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/service/restartlesson.mvc",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/start.mvc",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/js/goatApp/templates/paging_controls.html",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/service/lessonmenu.mvc",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/WebGoatIntroduction.lesson.lesson",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/service/lessoninfo.mvc",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/service/lessonoverview.mvc",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/service/hint.mvc",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/welcome.mvc",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://web-goat.teststand/WebGoat/logout",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/task.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/index.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/portal.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/member.php?action=register",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "register"
+            }
+        ]
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:8588/member.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/x-www-form-urlencoded"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "step=agreement&action=register&agree=I+Agree",
+            "params": [
+                {
+                    "name": "action",
+                    "value": "register"
+                },
+                {
+                    "name": "agree",
+                    "value": "I Agree"
+                },
+                {
+                    "name": "step",
+                    "value": "agreement"
+                }
+            ]
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8588/captcha.php?action=regimage&imagehash=e75b1d6eabe9256197b774fb94cc5d2d",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "action",
+                "value": "regimage"
+            },
+            {
+                "name": "imagehash",
+                "value": "e75b1d6eabe9256197b774fb94cc5d2d"
+            }
+        ]
+    }
+]

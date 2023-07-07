@@ -1,0 +1,729 @@
+[
+    {
+        "method": "POST",
+        "url": "http://juice-shop.teststand/rest/basket/UNKNOWN/checkout",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            },
+            {
+                "name": "Content-Type",
+                "value": "application/json"
+            },
+            {
+                "name": "Content-Length",
+                "value": "2"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 2,
+        "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/admin/application-configuration",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/user/authentication-details/?UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "UNKNOWN",
+                "value": ""
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/api/Users/UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/user/change-password?current=UNKNOWN&new=UNKNOWN&repeat=UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "current",
+                "value": "UNKNOWN"
+            },
+            {
+                "name": "new",
+                "value": "UNKNOWN"
+            },
+            {
+                "name": "repeat",
+                "value": "UNKNOWN"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/user/whoami",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/api/Feedbacks/?UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "UNKNOWN",
+                "value": ""
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "DELETE",
+        "url": "http://juice-shop.teststand/api/Feedbacks/UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/api/Recycles/?UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "UNKNOWN",
+                "value": ""
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/basket/UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/api/BasketItems/UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "DELETE",
+        "url": "http://juice-shop.teststand/api/BasketItems/UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "PUT",
+        "url": "http://juice-shop.teststand/rest/basket/UNKNOWN/coupon/UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            },
+            {
+                "name": "Content-Type",
+                "value": "application/json"
+            },
+            {
+                "name": "Content-Length",
+                "value": "2"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 2,
+        "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/captcha/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://juice-shop.teststand/file-upload",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            },
+            {
+                "name": "Content-Type",
+                "value": "multipart/form-data"
+            },
+            {
+                "name": "Authorization",
+                "value": "Bearer UNKNOWN"
+            },
+            {
+                "name": "Content-Length",
+                "value": "0"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0,
+        "postData": {
+            "mimeType": "multipart/form-data",
+            "params": [
+                {
+                    "name": "file",
+                    "type": "file",
+                    "value": ""
+                }
+            ],
+            "text": null
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/api/SecurityQuestions/?UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "UNKNOWN",
+                "value": ""
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/user/security-question?email=UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "email",
+                "value": "UNKNOWN"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/product/UNKNOWN/reviews",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://juice-shop.teststand/rest/product/reviews",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            },
+            {
+                "name": "Content-Type",
+                "value": "application/json"
+            },
+            {
+                "name": "Content-Length",
+                "value": "16"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 16,
+        "postData": {
+            "mimeType": "application/json",
+            "text": "{\"id\":\"UNKNOWN\"}"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/product/search?q=UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "q",
+                "value": "UNKNOWN"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/api/Products/?UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "UNKNOWN",
+                "value": ""
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/api/Products/UNKNOWN?d=UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "d",
+                "value": "UNKNOWN"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/api/Challenges/?UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "UNKNOWN",
+                "value": ""
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/repeat-notification?challenge=UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "challenge",
+                "value": "UNKNOWN"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/continue-code",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "PUT",
+        "url": "http://juice-shop.teststand/rest/continue-code/apply/UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            },
+            {
+                "name": "Content-Type",
+                "value": "application/json"
+            },
+            {
+                "name": "Content-Length",
+                "value": "2"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 2,
+        "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/track-order/UNKNOWN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/admin/application-version",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/rest/country-mapping",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/assets/i18n/en.json",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "accept",
+                "value": "application/json, text/plain, */*"
+            },
+            {
+                "name": "referer",
+                "value": "http://juice-shop.teststand/"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.77 Safari/537.36"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/socket.io/?EIO=3&transport=polling&t=OZZvMAN",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "referer",
+                "value": "http://juice-shop.teststand/"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.77 Safari/537.36"
+            },
+            {
+                "name": "cookie",
+                "value": "io=Qhi4LMwry2328YJrAAAK"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "EIO",
+                "value": "3"
+            },
+            {
+                "name": "transport",
+                "value": "polling"
+            },
+            {
+                "name": "t",
+                "value": "OZZvMAN"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/api/Challenges/?name=Score%20Board",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "accept",
+                "value": "application/json, text/plain, */*"
+            },
+            {
+                "name": "referer",
+                "value": "http://juice-shop.teststand/"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.77 Safari/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "name",
+                "value": "Score%20Board"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/socket.io/?EIO=3&transport=polling&t=OZZvMGV&sid=Qhi4LMwry2328YJrAAAK",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "referer",
+                "value": "http://juice-shop.teststand/"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.77 Safari/537.36"
+            },
+            {
+                "name": "cookie",
+                "value": "io=Qhi4LMwry2328YJrAAAK"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "EIO",
+                "value": "3"
+            },
+            {
+                "name": "transport",
+                "value": "polling"
+            },
+            {
+                "name": "t",
+                "value": "OZZvMGV"
+            },
+            {
+                "name": "sid",
+                "value": "Qhi4LMwry2328YJrAAAK"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://juice-shop.teststand/socket.io/?EIO=3&transport=polling&t=OZZvZi7&sid=Qhi4LMwry2328YJrAAAK",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "referer",
+                "value": "http://juice-shop.teststand/"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.77 Safari/537.36"
+            },
+            {
+                "name": "content-type",
+                "value": "text/plain;charset=UTF-8"
+            },
+            {
+                "name": "cookie",
+                "value": "io=Qhi4LMwry2328YJrAAAK"
+            },
+            {
+                "name": "origin",
+                "value": "http://juice-shop.teststand"
+            },
+            {
+                "name": "Content-Length",
+                "value": "3"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "EIO",
+                "value": "3"
+            },
+            {
+                "name": "transport",
+                "value": "polling"
+            },
+            {
+                "name": "t",
+                "value": "OZZvZi7"
+            },
+            {
+                "name": "sid",
+                "value": "Qhi4LMwry2328YJrAAAK"
+            }
+        ],
+        "bodySize": 3,
+        "postData": {
+            "mimeType": "text/plain;charset=UTF-8",
+            "text": "1:1"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/redirect?to=https://github.com/bkimminich/juice-shop",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "to",
+                "value": "https://github.com/bkimminich/juice-shop"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://juice-shop.teststand/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Host",
+                "value": "juice-shop.teststand"
+            }
+        ],
+        "queryString": [],
+        "bodySize": 0
+    }
+]

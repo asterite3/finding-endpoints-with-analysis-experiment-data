@@ -1,0 +1,62 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/start.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/js/goatApp/templates/paging_controls.html",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/labels.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/lessonmenu.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/WebGoatIntroduction.lesson.lesson",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/lessoninfo.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/lessonoverview.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/service/hint.mvc",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:8688/WebGoat/welcome.mvc",
+        "headers": [],
+        "queryString": []
+    }
+]

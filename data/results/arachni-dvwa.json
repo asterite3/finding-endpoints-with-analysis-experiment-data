@@ -1,0 +1,265 @@
+[
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/instructions.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/brute/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/setup.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/exec/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/fi/?page=include.php",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "page",
+                "value": "include.php"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/csrf/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/upload/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/captcha/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/sqli_blind/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/weak_id/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/sqli/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/xss_d/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/xss_r/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/csp/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/xss_s/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/javascript/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/authbypass/",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/security.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/phpinfo.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/about.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/instructions.php?doc=copying",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "doc",
+                "value": "copying"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.ar.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.zh.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.fr.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.fa.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.es.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/README.tr.md",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/ids_log.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/view_help.php?id=brute&security=medium&locale=en",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "id",
+                "value": "brute"
+            },
+            {
+                "name": "security",
+                "value": "medium"
+            },
+            {
+                "name": "locale",
+                "value": "en"
+            }
+        ]
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/csrf/test_credentials.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/hackable/flags/fi.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/authbypass/get_user_data.php",
+        "headers": [],
+        "queryString": []
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/view_source.php?id=csp&security=medium",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "id",
+                "value": "csp"
+            },
+            {
+                "name": "security",
+                "value": "medium"
+            }
+        ]
+    },
+    {
+        "method": "POST",
+        "url": "http://100.72.55.11:7680/vulnerabilities/authbypass/change_user_details.php",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "value": "application/json"
+            }
+        ],
+        "queryString": [],
+        "postData": {
+            "mimeType": "application/json",
+            "text": "{\"id\":5,\"first_name\":\"Bob\",\"surname\":\"Smith\"}",
+            "params": null
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://100.72.55.11:7680/vulnerabilities/view_source_all.php?id=csp",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "id",
+                "value": "csp"
+            }
+        ]
+    }
+]

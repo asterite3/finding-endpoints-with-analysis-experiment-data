@@ -1,0 +1,709 @@
+[
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/exec/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/csrf/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/logout.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/brute/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/instructions.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/setup.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/fi/?page=include.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "page",
+                "value": "include.php"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/upload/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/captcha/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/sqli/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/sqli_blind/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/weak_id/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/xss_d/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/xss_r/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/xss_s/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/csp/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/javascript/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/authbypass/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/security.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/phpinfo.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/about.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/instructions.php?doc=readme",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "doc",
+                "value": "readme"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/README.ar.md",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/README.zh.md",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/README.fr.md",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/README.fa.md",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/README.es.md",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/README.tr.md",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/setup.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 79,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "create_db",
+                    "type": "submit",
+                    "value": "Create / Reset Database"
+                },
+                {
+                    "name": "user_token",
+                    "type": "hidden",
+                    "value": "4665a96e617b8254065e39c07b2e2edd"
+                }
+            ],
+            "text": "create_db=Create+%2F+Reset+Database&user_token=4665a96e617b8254065e39c07b2e2edd"
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/vulnerabilities/upload/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 44,
+        "postData": {
+            "mimeType": "multipart/form-data",
+            "params": [
+                {
+                    "name": "MAX_FILE_SIZE",
+                    "type": "hidden",
+                    "value": "100000"
+                },
+                {
+                    "name": "uploaded",
+                    "type": "file",
+                    "value": ""
+                },
+                {
+                    "name": "Upload",
+                    "type": "submit",
+                    "value": "Upload"
+                }
+            ],
+            "text": null
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/csrf/test_credentials.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/csrf/?password_new=&password_conf=&Change=Change",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "password_new",
+                "value": ""
+            },
+            {
+                "name": "password_conf",
+                "value": ""
+            },
+            {
+                "name": "Change",
+                "value": "Change"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/vulnerabilities/sqli/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 18,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "id",
+                    "value": "1"
+                },
+                {
+                    "name": "Submit",
+                    "type": "submit",
+                    "value": "Submit"
+                }
+            ],
+            "text": "id=1&Submit=Submit"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/brute/?username=&password=&Login=Login",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "username",
+                "value": ""
+            },
+            {
+                "name": "password",
+                "value": ""
+            },
+            {
+                "name": "Login",
+                "value": "Login"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/vulnerabilities/exec/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 17,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "ip",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "Submit",
+                    "type": "submit",
+                    "value": "Submit"
+                }
+            ],
+            "text": "ip=&Submit=Submit"
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/vulnerabilities/sqli_blind/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 18,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "id",
+                    "value": "1"
+                },
+                {
+                    "name": "Submit",
+                    "type": "submit",
+                    "value": "Submit"
+                }
+            ],
+            "text": "id=1&Submit=Submit"
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/vulnerabilities/captcha/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 71,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "step",
+                    "type": "hidden",
+                    "value": "1"
+                },
+                {
+                    "name": "password_new",
+                    "type": "password",
+                    "value": ""
+                },
+                {
+                    "name": "password_conf",
+                    "type": "password",
+                    "value": ""
+                },
+                {
+                    "name": "g-recaptcha-response",
+                    "value": ""
+                },
+                {
+                    "name": "Change",
+                    "type": "submit",
+                    "value": "Change"
+                }
+            ],
+            "text": "step=1&password_new=&password_conf=&g-recaptcha-response=&Change=Change"
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/vulnerabilities/weak_id/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [],
+            "text": ""
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/xss_r/?name=",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "name",
+                "value": ""
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/xss_d/?default=English",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "default",
+                "value": "English"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/vulnerabilities/csp/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 8,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "include",
+                    "type": "text",
+                    "value": ""
+                }
+            ],
+            "text": "include="
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/vulnerabilities/xss_s/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 68,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "txtName",
+                    "type": "text",
+                    "value": ""
+                },
+                {
+                    "name": "mtxMessage",
+                    "value": ""
+                },
+                {
+                    "name": "btnSign",
+                    "type": "submit",
+                    "value": "Sign Guestbook"
+                },
+                {
+                    "name": "btnClear",
+                    "type": "submit",
+                    "value": "Clear Guestbook"
+                }
+            ],
+            "text": "txtName=&mtxMessage=&btnSign=Sign+Guestbook&btnClear=Clear+Guestbook"
+        }
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/vulnerabilities/javascript/",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 46,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "token",
+                    "type": "hidden",
+                    "value": "XXeMegnahCXX"
+                },
+                {
+                    "name": "phrase",
+                    "type": "text",
+                    "value": "ChangeMe"
+                },
+                {
+                    "name": "send",
+                    "type": "submit",
+                    "value": "Submit"
+                }
+            ],
+            "text": "token=XXeMegnahCXX&phrase=ChangeMe&send=Submit"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/security.php?phpids=on",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "phpids",
+                "value": "on"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/security.php?test=%22%3E%3Cscript%3Eeval(window.name)%3C/script%3E",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "test",
+                "value": "%22%3E%3Cscript%3Eeval(window.name)%3C/script%3E"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/ids_log.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/security.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 80,
+        "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "params": [
+                {
+                    "name": "security",
+                    "value": "medium"
+                },
+                {
+                    "name": "seclev_submit",
+                    "type": "submit",
+                    "value": "Submit"
+                },
+                {
+                    "name": "user_token",
+                    "type": "hidden",
+                    "value": "3b807085210f96d4c7ea72ddc730834b"
+                }
+            ],
+            "text": "security=medium&seclev_submit=Submit&user_token=3b807085210f96d4c7ea72ddc730834b"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/?doc=copying",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "doc",
+                "value": "copying"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/?test=%22%3E%3Cscript%3Eeval(window.name)%3C/script%3E",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "test",
+                "value": "%22%3E%3Cscript%3Eeval(window.name)%3C/script%3E"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/ids_log.php?clear_log=Clear+Log",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "clear_log",
+                "value": "Clear+Log"
+            }
+        ],
+        "bodySize": 0
+    },
+    {
+        "method": "POST",
+        "url": "http://dvwa.teststand/vulnerabilities/authbypass/change_user_details.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 59,
+        "postData": {
+            "mimeType": "application/json",
+            "text": "{\"id\":\"UNKNOWN\",\"first_name\":\"UNKNOWN\",\"surname\":\"UNKNOWN\"}"
+        }
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/vulnerabilities/authbypass/get_user_data.php",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [],
+        "bodySize": 0
+    },
+    {
+        "method": "GET",
+        "url": "http://dvwa.teststand/?phpids=on",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "queryString": [
+            {
+                "name": "phpids",
+                "value": "on"
+            }
+        ],
+        "bodySize": 0
+    }
+]
