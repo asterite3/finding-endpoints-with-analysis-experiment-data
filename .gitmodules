@@ -1,0 +1,9 @@
+[submodule "apps/juice-shop/juice-shop"]
+	path = apps/juice-shop/juice-shop
+	url = https://github.com/juice-shop/juice-shop.git
+[submodule "apps/wivet/wivet"]
+	path = apps/wivet/wivet
+	url = https://github.com/bedirhan/wivet.git
+[submodule "apps/dvwa/docker-dvwa"]
+	path = apps/dvwa/docker-dvwa
+	url = https://github.com/cytopia/docker-dvwa

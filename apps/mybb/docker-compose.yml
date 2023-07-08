@@ -1,0 +1,23 @@
+version: '3.3'
+services:
+  mybb:
+    image: mybb/mybb:1.8.19
+    volumes:
+      - ./mybb:/var/www/html:rw
+
+  nginx:
+    image: nginx:mainline-alpine
+    ports:
+    - '100.72.55.11:8588:80'
+    volumes:
+    - ./nginx:/etc/nginx/conf.d:ro
+    - ./mybb:/var/www/html:ro
+
+  postgresql:
+    environment:
+      POSTGRES_DB: mybb
+      POSTGRES_PASSWORD: changeme
+      POSTGRES_USER: mybb
+    image: postgres:9-alpine
+    volumes:
+    - ./pgdata:/var/lib/postgresql/data:rw

@@ -1,0 +1,11 @@
+--- ./docker-dvwa/docker-compose.yml
++++ ./docker-dvwa/docker-compose.yml
+@@ -7,7 +7,7 @@ services:
+     image: cytopia/dvwa:php-${PHP_VERSION:-8.1}
+     restart: unless-stopped
+     ports:
+-      - "${LISTEN_PORT:-8000}:80"
++      - "100.72.55.11:7680:80"
+     networks:
+       - dvwa-net
+     environment:

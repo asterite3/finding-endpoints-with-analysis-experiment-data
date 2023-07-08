@@ -1,0 +1,12 @@
+version: "2.0"
+
+services:
+  web:
+    build: juice-shop
+    restart: on-failure
+    environment:
+      - NODE_ENV=unsafe
+    ports:
+      - "100.72.55.11:3200:3000"
+    command:
+      node app.js
